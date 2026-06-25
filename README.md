@@ -16,3 +16,9 @@ An interactive Rock Paper Scissors game where users can compete against the comp
 
 ## Purpose
 This project was developed to practice JavaScript concepts such as DOM manipulation, event handling, conditional logic, and random number generation.
+
+## Project Screenshot
+![Rock Paper Scissor Game](Rock.png)
+
+## Author
+Nidhi Soni
